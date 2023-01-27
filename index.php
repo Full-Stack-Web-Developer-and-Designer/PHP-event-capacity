@@ -14,7 +14,7 @@ $venues = array(
 	'Sarajevo' => [50, 50], 
 	'Berlin'=> [75, 30], 
 	'Seoul' => [200, 99],
-	'New York' => [50, 30],
+	'New York' => [50, 69],
 );
 
 foreach ( $venues as $name => $numbers ) {
