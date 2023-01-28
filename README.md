@@ -9,4 +9,4 @@ The input will be a two dimensional array where the key is a venue name and the 
 
 To check how it looks, click on the preview and then on the green run button.
 ##
-[PREVIEW](https://replit.com/@MirnesGlamocic/PHP-function-check-capacity?v=1#index.php)
+[PREVIEW](https://replit.com/@MirnesGlamocic/PHP-function-check-capacity?v=1)
